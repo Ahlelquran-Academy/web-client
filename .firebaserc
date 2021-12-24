@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ahlelquran-academy": {
+      "hosting": {
+        "webClient": [
+          "ahlelquran-academy"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ahlelquran-academy"
+  }
+}
