@@ -1,2 +1,1 @@
-# deployment Link
-https://ahlelquran-academy.web.app/
+# Deployment [Link](https://ahlelquran-academy.web.app/)
